@@ -1,2 +1,1 @@
-# blackhole
-Medic bot
+# Medical bot
